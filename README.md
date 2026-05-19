@@ -17,4 +17,4 @@ Estudantes de cursos da área de computação, como Ciência da Computação, An
 
 ## Mapa conceitual
 
-[Clique aqui para acessar o mapa conceitual]([https://cmapscloud.ihmc.us:443/rid=22KK59CY5-1YGS3BH-F77F5F])
+https://cmapscloud.ihmc.us:443/rid=22KK59CY5-1YGS3BH-F77F5F
