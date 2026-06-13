@@ -20,6 +20,6 @@ Estudantes de cursos da área de computação, como Ciência da Computação, An
 https://cmapscloud.ihmc.us:443/rid=22Q62PJ5L-1NLBLFS-HRC
 
 ## Mapa instrucional
+<img width="3113" height="3850" alt="modelo-instrucional2" src="https://github.com/user-attachments/assets/668aa60c-9d86-40fb-ba4b-400aee63ba4d" />
 
-<img width="4792" height="1644" alt="mermaid-diagram-2026-06-11-213118" src="https://github.com/user-attachments/assets/8feeedfb-7d4f-4de5-89ba-dbd55f9a1989" />
 
