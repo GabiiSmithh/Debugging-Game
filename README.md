@@ -18,6 +18,8 @@ Estudantes de cursos da área de computação, como Ciência da Computação, An
 ## Mapa conceitual
 
 https://cmapscloud.ihmc.us:443/rid=22Q62PJ5L-1NLBLFS-HRC
+<img width="1163" height="1413" alt="Debugging_game_(2)" src="https://github.com/user-attachments/assets/2a3a5a18-c076-4b00-80e3-94cc4bebcc94" />
+
 
 ## Mapa instrucional
 <img width="3020" height="1880" alt="diagrama" src="https://github.com/user-attachments/assets/354401d0-abff-4b51-8a22-dd6d87aa35f1" />
